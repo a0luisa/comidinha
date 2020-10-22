@@ -1,0 +1,23 @@
+/******TAG SELECTORS*******/
+
+body{
+  background-color: #EC7063;
+}
+h1{
+  color: #FBEEE6;
+  font-size: 100px;
+  font-family: fantasy;
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+img:hover{
+  background-color: gold;}
+/*****CLASS SELECTORS********/
+.bad{
+  background-color: red;
+}
+.good{
+  background-color: green;
+}
